@@ -1,0 +1,19 @@
+
+ Shining Force 2 Game Editor
+ ===========================
+
+
+ Version 1.6b - 2 April 2019
+ ---------------------------
+ 
+ Increased the range cap on items and spells to 255.
+
+ Updated this text file for modern times.
+
+ Removed the link to my ancient dev notes from the Help menu.
+
+
+
+ Original Release - 29 July 2006
+ -------------------------------
+
